@@ -1,6 +1,6 @@
 function info(cadena) {
  
-    var resultado = "La cadena \""+cadena+"\" ";
+    let resultado = "La cadena \""+cadena+"\" ";
    
     // Comprobar mayúsculas y minúsculas
     if(cadena == cadena.toUpperCase()) {
